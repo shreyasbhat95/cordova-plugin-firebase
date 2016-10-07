@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189176354714",
+    "firebase_url": "https://sry-push-notify-test.firebaseio.com",
+    "project_id": "sry-push-notify-test",
+    "storage_bucket": "sry-push-notify-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189176354714:android:eccab7900cc27dec",
+        "android_client_info": {
+          "package_name": "com.sry.test.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189176354714-9c60ri30c13j46g5te143n1f5ojq8quv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOerPjxFHsy9QOMaMdSdEVB3VP0O6TX28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
